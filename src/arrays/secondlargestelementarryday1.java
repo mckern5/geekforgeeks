@@ -26,9 +26,9 @@ public class secondlargestelementarryday1 {
 					secondlargest= x[i];
 				}
 				
-				if(x[i]<secondlargest) {
-				     secondlargest=secondlargest;
-				}
+				//if(x[i]<secondlargest) {
+				//     secondlargest=secondlargest;
+				//}
 			}
 			
 			return secondlargest;
