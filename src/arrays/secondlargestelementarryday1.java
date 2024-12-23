@@ -2,6 +2,9 @@ package arrays;
 
 import java.util.Arrays;
 
+
+//Day1
+
 public class secondlargestelementarryday1 {
 
 		//2.twopass

@@ -2,6 +2,9 @@ package arrays;
 
 import java.util.Arrays;
 
+
+//Day2
+
 //move all 0s to end
 public class moveallzerostoend {
  

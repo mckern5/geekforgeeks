@@ -1,4 +1,4 @@
-package arrays;
+package Searching;
 
 
 //Day 29
