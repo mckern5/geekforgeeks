@@ -14,7 +14,7 @@ class Node {
 	}
 }
 
-  class GFG {
+class GFG {
 	Node root;
 
 	// Variable to keep the track
