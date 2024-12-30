@@ -1,8 +1,8 @@
 package maxdepthtree;
 
 
-
-	class Node {
+//recursive approach
+class Node {
 	    int data; 
 	    Node left, right;
 
